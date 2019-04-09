@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1b2ef7f47560e040bb7e8be1af3eb41, type: 3}
   m_Name: AI Align
   m_EditorClassIdentifier: 
-  sensor: {fileID: 11400000, guid: 5b8cc2897fc683e4ea8fb0e541ba9fa3, type: 2}
+  sensor: {fileID: 11400000, guid: c2926d61c4858804989f91ec0117fad3, type: 2}
   neighborMinLimit: 5
