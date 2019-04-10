@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07e4ffdafb402fb4f8667424a5080d0f, type: 3}
   m_Name: Zombie AI Template
   m_EditorClassIdentifier: 
-  maxSpeed: 100
-  maxForce: 100
+  maxSpeed: 50
+  maxForce: 25
   behaviors:
   - {fileID: 11400000, guid: 687d66b753ce1344aaae036e8e9871a6, type: 2}
   - {fileID: 11400000, guid: c0a9b8a4185b89946ad0ab829edfd51d, type: 2}
-  - {fileID: 0}
   - {fileID: 11400000, guid: 71db72bfb93588047b81ab9b7dcc2efb, type: 2}
+  - {fileID: 0}
   - {fileID: 0}
