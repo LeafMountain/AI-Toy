@@ -12,9 +12,9 @@ public class DestroyComponent : MonoBehaviour
         GetComponent<BoxCollider>().size = size;
     }
 
-    void OnCollisionEnter(Collision collision)
+    void OnTriggerEnter(Collider collider)
     {
-        Destroy(collision.gameObject);
+        Destroy(collider.gameObject);
     }
 
     void OnDrawGizmosSelected()
